@@ -1,0 +1,14 @@
+
+*{ box-sizing: border-box }
+img {
+   width: 100%;
+   display: block;
+}
+
+.congress-mem{
+  border: 1px solid #999;
+  display: inline-block;
+  background-color: lightgreen;
+  margin: 10px;
+  width: 30%;
+}
